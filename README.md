@@ -5,12 +5,12 @@ Fork modificado del Skin Changer de [Osiris](https://github.com/danielkrupinski/
 ## Características
 
  - Abrir cualquier tipo de cajas (Con el rate un poco subido)
- - Poder aplicar cualquier pegatína a cualquier arma
+ - Poder aplicar cualquier pegatina a cualquier arma
  - Cambiar el nombre a las armas
  - Tener cualquier arma en cualquier estado
  - Usar todos los cuchillos y guantes
- - Kits de música, grafitis e Insigneas
- - Poder tener una insignea de perfil pública (Que lo vea toda la sala)
+ - Kits de música, grafitis e Insignias
+ - Poder tener una insignia de perfil pública (Que lo vea toda la sala)
  - Cambiar el estilo de personaje
  - Guardar las configuraciones para luego cargarlas
  - GUI mejorada, quitadas las opciones que no se suelen usar y modo oscuro.
